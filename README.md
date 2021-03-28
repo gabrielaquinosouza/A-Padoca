@@ -1,2 +1,2 @@
 # A-Padoca
-Aplicativo de pedidos de entrega online
+Aplicativo de pedidos online
